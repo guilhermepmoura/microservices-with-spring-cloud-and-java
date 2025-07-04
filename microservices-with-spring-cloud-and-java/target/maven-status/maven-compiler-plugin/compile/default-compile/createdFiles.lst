@@ -1,0 +1,3 @@
+br\com\guilhermepmoura\controllers\GreetingController.class
+br\com\guilhermepmoura\Startup.class
+br\com\guilhermepmoura\model\Greeting.class
