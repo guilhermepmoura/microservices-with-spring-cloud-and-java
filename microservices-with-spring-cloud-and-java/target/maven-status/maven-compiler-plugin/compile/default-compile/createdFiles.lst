@@ -1,3 +1,8 @@
-br\com\guilhermepmoura\controllers\GreetingController.class
+br\com\guilhermepmoura\exception\handler\CustomEntityResponseHandler.class
+br\com\guilhermepmoura\Person.class
+br\com\guilhermepmoura\exception\ExceptionResponse.class
+br\com\guilhermepmoura\exception\UnsupportedMathOperation.class
 br\com\guilhermepmoura\Startup.class
 br\com\guilhermepmoura\model\Greeting.class
+br\com\guilhermepmoura\PersonServices.class
+br\com\guilhermepmoura\controllers\PersonController.class
